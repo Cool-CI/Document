@@ -1,7 +1,3 @@
----
-description: 这篇文章主要讲解Docker入门知识点。
----
-
 # Docker入门
 
 ### Docker简介
