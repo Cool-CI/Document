@@ -6,4 +6,5 @@
 * [Kubernets系列](kubernetes/README.md)
   * [Minikube安装](kubernetes/mac-install-minikube.md)
   * [k8s资料收集](kubernetes/k8s-materials.md)
+  * [KuberSpray安装K8s集群](kubernetes/spray-install-k8s.md)
 
